@@ -3,8 +3,7 @@
 <h1 align="center">CAT BREEDS API</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-   On Development
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>. | Development 
 </div>
 
 <div align="center">
@@ -52,8 +51,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [ReactJs](https://reactjs.org/)
-- [Nodejs](https://nodejs.org/)
-- [Express](https://expressjs.com/)
+- [NodeJs](https://nodejs.org/)
+- [ExpressJs](https://expressjs.com/)
 - [Styled Components](https://styled-components.com/)
 
 ## Features
